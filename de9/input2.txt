@@ -1,0 +1,10 @@
+3
+nguyen van a
+ha noi
+a
+nguyen van b
+ho chi minh
+b
+nguyen van c
+da nang
+c

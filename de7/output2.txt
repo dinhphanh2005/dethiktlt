@@ -1,0 +1,4 @@
+So nhan vien: 3
+Nhan vien 1: nguyen van a 200 1
+Nhan vien 2: nguyen van b 400 2
+Nhan vien 3: nguyen van c 10000 3

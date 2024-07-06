@@ -1,0 +1,13 @@
+4
+nguyen van a
+8.9
+A
+nguyen van b
+5.7
+B 
+nguyen van c
+6.2
+C 
+nguyen van d
+9.0
+D
